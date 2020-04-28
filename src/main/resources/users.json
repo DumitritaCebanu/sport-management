@@ -1,0 +1,42 @@
+{
+  "client" :
+          [
+            {
+              "username" : "client1",
+              "password" : "client1"
+            },
+            {
+              "username" : "client2",
+              "password" : "client2"
+            },
+            {
+              "username" : "client3",
+              "password" : "client3"
+            },
+            {
+              "username" : "client4",
+              "password" : "client4"
+            },
+            {
+              "username" : "client5",
+              "password" : "client5"
+            }
+          ],
+  "administrator" :
+          [
+            {
+              "username" : "admin1",
+              "password" : "admin1"
+            },
+            {
+              "username" : "admin2",
+              "password" : "admin2"
+            },
+            {
+              "username" : "admin3",
+              "password" : "admin3"
+            }
+          ]
+}
+
+
