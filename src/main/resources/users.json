@@ -1,42 +1,33 @@
-{
-  "client" :
-          [
-            {
-              "username" : "client1",
-              "password" : "client1"
-            },
-            {
-              "username" : "client2",
-              "password" : "client2"
-            },
-            {
-              "username" : "client3",
-              "password" : "client3"
-            },
-            {
-              "username" : "client4",
-              "password" : "client4"
-            },
-            {
-              "username" : "client5",
-              "password" : "client5"
-            }
-          ],
-  "administrator" :
-          [
-            {
-              "username" : "admin1",
-              "password" : "admin1"
-            },
-            {
-              "username" : "admin2",
-              "password" : "admin2"
-            },
-            {
-              "username" : "admin3",
-              "password" : "admin3"
-            }
-          ]
-}
+[
+  {
+    "User" : "Client1",
+    "Credentials" : [
+      "Username : hero234clt",
+      "Password : client1"
+    ]
+  },
 
+  {
+    "User" : "Admin1",
+    "Credentials" : [
+      "Username : aaa3adm",
+      "Password : asd123"
+    ]
+  },
 
+  {
+    "User" : "Client2",
+    "Credentials" : [
+      "Username : aws9clt",
+      "Password : aws999"
+    ]
+  },
+
+  {
+    "User" : "Admin2",
+    "Credentials" : [
+      "Username : god89adm",
+      "Password : god89"
+    ]
+  }
+]
